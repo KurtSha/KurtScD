@@ -1,0 +1,83 @@
+html, body {
+	margin:0;
+	top:0;
+	left:0;
+	background-color: #CAA214;
+}
+
+#Juice{
+text-align: center;
+height: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 0.5em;
+color: #000000;
+}
+
+#Mac{
+
+text-align: left;
+height: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 1em;
+color: #000000;
+}
+
+#Mac2{
+
+text-align: right;
+height: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 1em;
+color: #000000;
+}
+
+#Joey{
+
+text-align: center;
+height: 100px;
+font-family: Pridi;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.5em;
+color: #000000;
+}
+
+#Cole{
+text-align: center;
+position: absolute;
+height: 150px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 21px;
+letter-spacing: 0.5em;
+color: #000000;
+}
+#AR{
+text-align: center;
+height: 150px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+text-align: center;
+letter-spacing: 0.1em;
+color: #000000;
+}
